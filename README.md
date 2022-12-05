@@ -2,6 +2,6 @@
 
 coding practice website clone
 
-scss files are in the zip
+sass files are in the zip
 
 original website https://www.bo-tha.com/about
